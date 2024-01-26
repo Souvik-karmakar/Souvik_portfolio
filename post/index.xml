@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Souvik Karmakar</title>
+    <link>https://souvik-karmakar.github.io/Souvik_portfolio/post/</link>
+    <description>Recent content in Projects on Souvik Karmakar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2024 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://souvik-karmakar.github.io/Souvik_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3:- Product Dissection Slack -Relational DataBase</title>
+      <link>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-3/</link>
+      <pubDate>Fri, 05 Jan 2024 11:00:59 -0400</pubDate>
+      <guid>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-3/</guid>
+      <description>Explored Slack&amp;rsquo;s intricate infrastructure, conducting a comprehensive examination. Delved deep into the architecture of Slack&amp;rsquo;s collaboration platform. Meticulously dissected key elements, including users, channels, messages, integrations, and tasks. Provided profound insights into the interconnected web of data within Slack. Conducted a hands-on examination to decipher the nuances of Slack&amp;rsquo;s design philosophy. Highlighted Slack&amp;rsquo;s user-centric features, integrated workflows, and streamlined communication. Emphasized Slack&amp;rsquo;s prowess in addressing practical challenges within its design.</description>
+    </item>
+    <item>
+      <title>Project 2:- Customer Purchase Behavior Analysis</title>
+      <link>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 2024 11:00:59 -0400</pubDate>
+      <guid>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-2/</guid>
+      <description>Target graduation-level students with tailored marketing campaigns based on education demographics. Craft promotions suitable for married individuals in the 1960-1980 age range, considering marital status and birth years. Investigate reasons behind a high number of declines in campaign responses and refine future campaigns accordingly. Target customers with higher incomes for wine-related promotions by analyzing wine expenditure and income correlation. Tailor product promotions based on income levels, understanding the relationship between income and product spending patterns.</description>
+    </item>
+    <item>
+      <title>Project 4: Hotel Booking Trends analysis</title>
+      <link>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-4/</link>
+      <pubDate>Sun, 31 Dec 2023 10:58:08 -0400</pubDate>
+      <guid>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-4/</guid>
+      <description>Led analysis of hotel booking data. Uncovered valuable insights into customer behavior and booking patterns. Explored factors such as lead time, guest count, meal preferences, and market segments. Utilized data-driven decisions to optimize pricing strategies. Enhanced product offerings based on analysis findings. Refined marketing and distribution channels for better targeting. Aimed to boost hotel revenue through strategic decision-making. Focused on improving customer satisfaction through informed insights and actions. Link to GitHub Repository</description>
+    </item>
+    <item>
+      <title>Project 1:- Diabetes prediction model</title>
+      <link>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-1/</link>
+      <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
+      <guid>https://souvik-karmakar.github.io/Souvik_portfolio/post/project-1/</guid>
+      <description>Predict whether patients have diabetes based on diagnostic measurements in the dataset. Dataset includes medical predictor variables (e.g., pregnancies, BMI, insulin, age) and a target variable (Outcome). Implemented a machine learning model using various classification and ensemble methods in Python. Explored standard machine learning techniques to achieve the highest accuracy from the data. Noted that the random forest classifier outperformed other methods in terms of accuracy. Emphasized the importance of using advanced computational methods and large datasets for diabetes risk prediction.</description>
+    </item>
+  </channel>
+</rss>
